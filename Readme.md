@@ -11,6 +11,17 @@
 - Model训练小结本地路径(方便他人重复实验): xxx/xxx/xxx
 ```
 
+## UNIT
+
+- 项目github地址: [https://github.com/mingyuliutw/UNIT](https://github.com/mingyuliutw/UNIT)
+- 项目本地路径: /home/sway007/UNIT-local
+- 训练数据集本地路径:
+  - /home/sway007/UNIT-local/udacity_datasets
+  - /home/sway007/img-sources
+- 训练时长: **todo**
+- fid值: **todo**
+- Model训练小结本地路径: **todo**
+
 -----------------------
 
 # Metrics
