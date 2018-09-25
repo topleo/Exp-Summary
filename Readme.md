@@ -1,4 +1,4 @@
-# UNIT/Style_Transfer Model训练时长 Models
+# UNIT/Style_Transfer Models
 
 ### Example
 ``` markdown
