@@ -22,6 +22,24 @@
 - fid值: **todo**
 - Model训练小结本地路径: **todo**
 
+## CycleGAN
+
+- 项目github地址: [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- 项目本地路径: /home/sway007/git-repos/pytorch-CycleGAN-and-pix2pix
+- 训练数据集本地路径: **todo**
+- 训练时长: **todo**
+- fid值: **todo**
+- Model训练小结本地路径: **todo**
+
+## deep-photo-styletransfer
+
+- 项目github地址: [https://github.com/luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
+- 项目本地路径: /home/sway007/git-repos/deep-photo-styletransfer
+- 训练数据集本地路径: **todo**
+- 训练时长: **todo**
+- fid值: **todo**
+- Model训练小结本地路径: **todo**
+
 -----------------------
 
 # Metrics
