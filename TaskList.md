@@ -13,6 +13,6 @@
 
 -------------------
 
-## TODO
+## Remark
 
 - CycleGAN也能实现Image Style Transfer
