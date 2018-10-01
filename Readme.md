@@ -47,9 +47,14 @@
 ## Steering Angle Difference
 
 - **self-driving model** (预测steering angle)
-    - 实验代码地址: **todo**
-    - 代码本地路径: **todo**
-    - 实验总结本地路径: **todo**
+    - 实验代码地址: 
+        - baseline model: [baseline model](https://github.com/dolaameng/udacity-SDC-baseline)
+        - cg23: [cg23](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/cg23)
+        - pretrained models: [pretrained model evaluation](https://github.com/udacity/self-driving-car/tree/master/steering-models/evaluation)
+    - 代码本地路径: 
+        - baseline model: /home/sway007/git-repos/udacity-SDC-baselien-master
+        - pretrained models: /home/sway007/git-repos/steer-angle-evaluation
+    - 实验总结本地路径: [self-driving model summary](https://docs.google.com/document/d/1koSxoUU7QjgYpHRdOcLGRNhlKUnOZWE1EMcpufwrH-M/edit?usp=sharing)
   
 - **udacity-driving-reader** (生成路况图片图片标记数据)
     - 实验代码地址: [https://github.com/rwightman/udacity-driving-reader](https://github.com/rwightman/udacity-driving-reader)
