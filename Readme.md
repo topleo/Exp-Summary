@@ -24,12 +24,12 @@
 
 ## CycleGAN
 
-- 项目github地址: [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
-- 项目本地路径: /home/sway007/git-repos/pytorch-CycleGAN-and-pix2pix
-- 训练数据集本地路径: **todo**
-- 训练时长: **todo**
+- 项目github地址:  [https://github.com/hardikbansal/CycleGAN](https://github.com/hardikbansal/CycleGAN)
+- 项目本地路径: `/home/undergrats/ywCHENG/CycleGAN`
+- 训练数据集本地路径: `/home/undergrats/ywCHENG/CycleGAN/inputs`
+- 训练时长: **713 min 49.36 s**
 - fid值: **todo**
-- Model训练小结本地路径: **todo**
+- Model训练小结本地路径: ` /home/undergrats/ywCHENG/Report.md` along with all the output obtained during Cheng Yiwei's work.
 
 ## deep-photo-styletransfer
 
