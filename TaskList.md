@@ -18,6 +18,8 @@
     - [OXFORD ROBOTCAR DATASET](http://robotcar-dataset.robots.ox.ac.uk/) - \[local path\](/home/sway007/datasets/Images_Oxford_Sun)  
     `symlink->/home/undergrats/ywCHENG/Images_Oxford_Sun`
 
+    上周CycleGAN和Deep Nerual Transfer的实验结果都不太好，猜测可能由于Style Image Datasets质量不高的原因导致，所以已经在服务器上下载了Berkeley-DeepDrive和OXFORD ROBOTCAR DATASET数据集，以后实验确定content image用udacity数据集，style image采用上面两个数据集的数据。
+
 -------------------
 
 ## Remark
