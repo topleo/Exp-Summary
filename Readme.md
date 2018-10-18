@@ -26,10 +26,10 @@
 
 - 项目github地址:  [https://github.com/hardikbansal/CycleGAN](https://github.com/hardikbansal/CycleGAN)
 - 项目本地路径: `/home/undergrats/ywCHENG/CycleGAN`
-- 训练数据集本地路径: `/home/undergrats/ywCHENG/CycleGAN/inputs`
-- 训练时长: **713 min 49.36 s**
+- 训练数据集本地路径: `/home/undergrats/ywCHENG/Oxford_*.zip
+- 训练时长: about 24 h (Since the best images appear during the training process, the epoch will be changed to the best number in the following)
 - fid值: **todo**
-- Model训练小结本地路径: ` /home/undergrats/ywCHENG/Report.md` along with all the output obtained during Cheng Yiwei's work.
+- Model训练小结本地路径: ` /home/undergrats/ywCHENG/Report.md` along with all the output obtained during Cheng Yiwei's work in `/home/undergrats/ywCHENG/CycleGAN/output/imgs`.
 
 ## deep-photo-styletransfer
 
@@ -50,7 +50,7 @@
     real	2349m46.212s
     user	3782m18.764s
     sys	554m26.476s
-    ``` 
+    ```
 - fid值: TODO
 - Model训练小结本地路径(方便他人重复实验): exp-reports/AdaIN-style.md
 
