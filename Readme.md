@@ -5,6 +5,7 @@
 ## Model名称
 - 项目github地址: xxx.xxx.xxx
 - 项目本地路径: xxx/xxx/xxx
+- output路径: xxx/xxx/xxx
 - 训练数据集本地路径: xxx/xxx/xxx
 - 训练时长: training_time
 - fid值: xxx.xxx
@@ -45,6 +46,7 @@
 - 项目github地址: [https://github.com/xunhuang1995/AdaIN-style](https://github.com/xunhuang1995/AdaIN-style)
 - 项目本地路径: /home/sway007/git-repos/style-transfer/AdaIN-style
 - 训练数据集本地路径: content_dir(/home/sway007/datasets/unamed_dataset)  style_dir(/home/sway007/datasets/Images_Oxford_Sun/snow_1)
+- output路径: /home/sway007/git-repos/style-transfer/AdaIN-style/custom_output
 - 训练时长: 
     ```bash
     real	2349m46.212s
