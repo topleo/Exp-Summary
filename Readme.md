@@ -43,18 +43,33 @@
 
 ## AdaIN-style
 
-- 项目github地址: [https://github.com/xunhuang1995/AdaIN-style](https://github.com/xunhuang1995/AdaIN-style)
+- 项目github地址: 
+
 - 项目本地路径: /home/sway007/git-repos/style-transfer/AdaIN-style
+
 - 训练数据集本地路径: content_dir(/home/sway007/datasets/unamed_dataset)  style_dir(/home/sway007/datasets/Images_Oxford_Sun/snow_1)
+
 - output路径: /home/sway007/git-repos/style-transfer/AdaIN-style/custom_output
+
 - 训练时长: 
     ```bash
     real	2349m46.212s
     user	3782m18.764s
     sys	554m26.476s
     ```
+
 - fid值: TODO
+
 - Model训练小结本地路径(方便他人重复实验): exp-reports/AdaIN-style.md
+
+## FastPhotoStyle
+
+- 项目github地址: [https://github.com/NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle)
+
+- 项目本地路径: /home/undergrats/ywCHENG/FastPhotoStyle
+- 训练数据集本地路径: Pre-trained model
+- output路径:/home/undergrats/ywCHENG/FastPhotoStyle/output
+- Model训练小结本地路径: /home/undergrats/ywCHENG/FastPhotoStyle/Guidance_from_CHENG.md
 
 -----------------------
 
