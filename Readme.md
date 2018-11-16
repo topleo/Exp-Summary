@@ -16,7 +16,6 @@
 - 项目本地路径: /home/undergrats/han/semantic-segmentation-pytorch
 - 使用方法 ./demo_test.sh your_path_to_image 
 - output路径 /home/undergrats/han/semantic-segmentation-pytorch
-```
 
 
 ## UNIT
