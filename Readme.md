@@ -11,6 +11,13 @@
 - fid值: xxx.xxx
 - Model训练小结本地路径(方便他人重复实验): xxx/xxx/xxx
 ```
+## Semantic Segmentation on MIT ADE20K dataset in PyTorch
+- 项目github地址:https://github.com/CSAILVision/semantic-segmentation-pytorch
+- 项目本地路径: /home/undergrats/han/semantic-segmentation-pytorch
+- 使用方法 ./demo_test.sh your_path_to_image 
+- output路径 /home/undergrats/han/semantic-segmentation-pytorch
+```
+
 
 ## UNIT
 
