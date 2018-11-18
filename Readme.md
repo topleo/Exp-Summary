@@ -70,11 +70,15 @@
 
 ## FastPhotoStyle
 
+TIPs: This model uses CSAILVision in itself, there's no need to generate more segmentation images from outside.
+
+And you'd better resize two inputs to the same width and height to prevent possible `ValueError`.
+
 - 项目github地址: [https://github.com/NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle)
 
 - 项目本地路径: /home/undergrats/ywCHENG/FastPhotoStyle
 - 训练数据集本地路径: Pre-trained model
-- output路径:/home/undergrats/ywCHENG/FastPhotoStyle/output
+- output路径:/home/undergrats/ywCHENG/FastPhotoStyle/results
 - Model训练小结本地路径: /home/undergrats/ywCHENG/FastPhotoStyle/Guidance_from_CHENG.md
 
 -----------------------
