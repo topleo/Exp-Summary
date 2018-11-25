@@ -26,3 +26,8 @@
 
 - CycleGAN也能实现Image Style Transfer
 - [fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
+
+## 11.25
+
+因为近期要对实验进行项目中期总结，所以咱们需要整理、展示一下跑过的几个model的合成图片效果。之前我们提出了3个framework的比较维度:fid, steering angle diff和traning time，因为后面跑的几个model没有训练的环节，所以我们现在重点考虑fid和steering angle diff。  
+- 算fid的代码:[github_link](https://github.com/mseitzer/pytorch-fid)，这个yiwei和铭基已经跑过了，比较简单，大家有疑问可以问一下他俩，唯一需要注意的是为了统一比较标准，所有model的content image定位server上路径为`/home/sway007/datasets/udacity_day`的数据集，简单来说就是大家把之前跑过的model再以`/home/sway007/datasets/udacity_day`为content image跑一遍(style images以自己跑过的效果最好的图片为准)，然后拿到最新合成的图片算出和数据集`/home/sway007/datasets/udacity_day`之间的fid值。
