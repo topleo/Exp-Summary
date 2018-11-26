@@ -35,7 +35,7 @@
 - 项目本地路径: `/home/undergrats/ywCHENG/CycleGAN`
 - 训练数据集本地路径: `/home/undergrats/ywCHENG/Oxford_*.zip
 - 训练时长: about 24 h (Since the best images appear during the training process, the epoch will be changed to the best number in the following)
-- fid值: **todo**
+- fid值: 275.04948
 - Model训练小结本地路径: ` /home/undergrats/ywCHENG/Report.md` along with all the output obtained during Cheng Yiwei's work in `/home/undergrats/ywCHENG/CycleGAN/output/imgs`.
 
 ## deep-photo-styletransfer
