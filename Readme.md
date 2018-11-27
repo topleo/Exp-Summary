@@ -79,6 +79,7 @@ And you'd better resize two inputs to the same width and height to prevent possi
 - 项目本地路径: /home/undergrats/ywCHENG/FastPhotoStyle
 - 训练数据集本地路径: Pre-trained model
 - output路径:/home/undergrats/ywCHENG/FastPhotoStyle/results
+- fid: 77.285
 - Model训练小结本地路径: /home/undergrats/ywCHENG/FastPhotoStyle/Guidance_from_CHENG.md
 
 -----------------------
