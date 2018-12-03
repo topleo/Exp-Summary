@@ -29,6 +29,16 @@
 - fid值: **todo**
 - Model训练小结本地路径: **todo**
 
+## MUNIT
+
+- 项目github地址: [https://github.com/NVlabs/MUNIT](https://github.com/NVlabs/MUNIT)
+- 项目本地路径: /home/undergrats/tzLuo/MUNIT
+- output路径: /home/undergrats/tzLuo/MUNIT/transfer
+- 训练数据集本地路径: /home/undergrats/tzLuo/MUNIT/datasets
+- 训练时长: 100k~200k training iterations per 24 hours
+- fid值: 217.82906651645953 (uda2rain, 200k iterations)
+- Model训练小结本地路径: **todo**
+
 ## CycleGAN
 
 - 项目github地址:  [https://github.com/hardikbansal/CycleGAN](https://github.com/hardikbansal/CycleGAN)
