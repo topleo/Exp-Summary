@@ -47,6 +47,8 @@
 - 训练时长: about 24 h (Since the best images appear during the training process, the epoch will be changed to the best number in the following)
 - fid值: 275.04948 with the test results in `/home/undergrats/ywCHENG/CycleGAN/output/imgs/test`
 - Model训练小结本地路径: ` /home/undergrats/ywCHENG/Report.md` along with all the output obtained during Cheng Yiwei's work in `/home/undergrats/ywCHENG/CycleGAN/output/imgs`.
+- 自动驾驶系统生成图片路径: /home/undergrats/ywCHENG/CycleGAN/output/imgs/prediction.zip
+- 自动驾驶系统生成转角数据: /home/undergrats/ywCHENG/CycleGAN/output.csv
 
 ## deep-photo-styletransfer
 
@@ -91,6 +93,8 @@ And you'd better resize two inputs to the same width and height to prevent possi
 - output路径:/home/undergrats/ywCHENG/FastPhotoStyle/results
 - fid: 77.285
 - Model训练小结本地路径: /home/undergrats/ywCHENG/FastPhotoStyle/Guidance_from_CHENG.md
+- 自动驾驶系统生成图片路径: /home/undergrats/ywCHENG/FastPhotoStyle/predic/prediction.zip
+- 自动驾驶系统生成转角数据: /home/undergrats/ywCHENG/FastPhotoStyle/output.csv
 
 ## Fast-neural-transfer
 - 项目github地址: : [https://github.com/jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
