@@ -92,6 +92,32 @@ And you'd better resize two inputs to the same width and height to prevent possi
 - fid: 77.285
 - Model训练小结本地路径: /home/undergrats/ywCHENG/FastPhotoStyle/Guidance_from_CHENG.md
 
+## Fast-neural-transfer
+- 项目github地址: : [https://github.com/jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style)
+- 项目本地路径: /home/undergrats/Zeke/fast-neural-style
+- 训练数据集本地路径: /home/sway007/UNIT-local/udacity_datasets
+- style images location: /home/undergrats/Zeke/fast-neural-style/style
+- 训练时长: 
+    ```bash
+    For training model: about 10 minutes everything 2000 iterations
+    For stylize the image: about 2 images (40~60k) every second.
+    ```
+- fid值: 139.49777604999912
+- Model训练小结本地路径: /home/undergrats/Zeke/fast-neural-style/Fast-neural-style.md
+
+## Arbitrary-Style-Transfer
+TIPs: This framework is designed  based on the same paper as [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style.git). So if you have tried AdaIN, it's a better choice to skip this model:)
+- 项目github地址: : [https://github.com/elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer)
+- 项目本地路径: /home/undergrats/Zeke/arbitrary_style_transfer
+- 训练数据集本地路径: /home/sway007/UNIT-local/udacity_datasets
+- style images location: /home/undergrats/Zeke/arbitrary_style_transfer/images/style
+- 训练时长: 
+    ```bash
+    For stylize the image: about 1 images (40~60k) every 5 seconds.
+    ```
+- fid值: 196.11790769724644
+- Model训练小结本地路径: /home/undergrats/Zeke/arbitrary_style_transfer/Arbitrary-Style-Transfer.pdf
+
 -----------------------
 
 # Metrics
